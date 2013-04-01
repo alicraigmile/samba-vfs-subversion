@@ -1,0 +1,3 @@
+./configure  --with-samba-source=../samba-3.5.4/source3 --enable-developer
+make
+
